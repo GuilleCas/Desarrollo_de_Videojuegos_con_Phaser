@@ -1,3 +1,6 @@
 
 *.json
 p02conclases/phaser.min.js
+*.nix
+p03/.replit
+p04/def/phaser.d.ts
