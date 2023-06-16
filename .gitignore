@@ -3,3 +3,14 @@ p02conclases/phaser.min.js
 *.nix
 p03/.replit
 p04/def/phaser.d.ts
+p02/package-lock.json
+p02/package.json
+p02conclases/.cache/replit/__replit_disk_meta.json
+p02conclases/package-lock.json
+p02conclases/package.json
+p03/.cache/replit/__replit_disk_meta.json
+p03/.cache/replit/nix/env.json
+p03/.config/configstore/update-notifier-npm.json
+p04/.cache/replit/__replit_disk_meta.json
+p07/.cache/replit/__replit_disk_meta.json
+p08reto/.cache/replit/__replit_disk_meta.json
