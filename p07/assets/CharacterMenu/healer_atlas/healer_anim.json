@@ -1,0 +1,84 @@
+{
+    "anims": [
+        {
+            "key": "healer_back",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "healer",
+                    "frame": "healer_m_0"
+                },
+                {
+                    "key": "healer",
+                    "frame": "healer_m_1"
+                },
+                {
+                    "key": "healer",
+                    "frame": "healer_m_2"
+                }
+            ]
+        },
+        {
+            "key": "healer_walkl",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "healer",
+                    "frame": "healer_m_9"
+                },
+                {
+                    "key": "healer",
+                    "frame": "healer_m_10"
+                },
+                {
+                    "key": "healer",
+                    "frame": "healer_m_11"
+                }
+            ]
+        },
+        {
+            "key": "healer_walkr",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "healer",
+                    "frame": "healer_m_3"
+                },
+                {
+                    "key": "healer",
+                    "frame": "healer_m_4"
+                },
+                {
+                    "key": "healer",
+                    "frame": "healer_m_5"
+                }
+            ]
+        },
+        {
+            "key": "healer_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "healer",
+                    "frame": "healer_m_6"
+                },
+                {
+                    "key": "healer",
+                    "frame": "healer_m_7"
+                },
+                {
+                    "key": "healer",
+                    "frame": "healer_m_8"
+                }
+            ]
+        }
+    ]
+}

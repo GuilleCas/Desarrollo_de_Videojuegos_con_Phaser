@@ -1,0 +1,84 @@
+{
+    "anims": [
+        {
+            "key": "ranger_back",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_0"
+                },
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_1"
+                },
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_2"
+                }
+            ]
+        },
+        {
+            "key": "ranger_walkl",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_11"
+                },
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_10"
+                },
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_9"
+                }
+            ]
+        },
+        {
+            "key": "ranger_walkr",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_3"
+                },
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_4"
+                },
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_5"
+                }
+            ]
+        },
+        {
+            "key": "ranger_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_6"
+                },
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_7"
+                },
+                {
+                    "key": "ranger",
+                    "frame": "ranger_m_8"
+                }
+            ]
+        }
+    ]
+}

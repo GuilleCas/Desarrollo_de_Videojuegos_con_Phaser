@@ -1,0 +1,84 @@
+{
+    "anims": [
+        {
+            "key": "mage_back",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "mage",
+                    "frame": "mage_f_0"
+                },
+                {
+                    "key": "mage",
+                    "frame": "mage_f_1"
+                },
+                {
+                    "key": "mage",
+                    "frame": "mage_f_2"
+                }
+            ]
+        },
+        {
+            "key": "mage_walkl",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "mage",
+                    "frame": "mage_f_9"
+                },
+                {
+                    "key": "mage",
+                    "frame": "mage_f_10"
+                },
+                {
+                    "key": "mage",
+                    "frame": "mage_f_11"
+                }
+            ]
+        },
+        {
+            "key": "mage_walkr",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "mage",
+                    "frame": "mage_f_3"
+                },
+                {
+                    "key": "mage",
+                    "frame": "mage_f_4"
+                },
+                {
+                    "key": "mage",
+                    "frame": "mage_f_5"
+                }
+            ]
+        },
+        {
+            "key": "mage_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "mage",
+                    "frame": "mage_f_6"
+                },
+                {
+                    "key": "mage",
+                    "frame": "mage_f_7"
+                },
+                {
+                    "key": "mage",
+                    "frame": "mage_f_8"
+                }
+            ]
+        }
+    ]
+}
