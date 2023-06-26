@@ -1,0 +1,84 @@
+{
+    "anims": [
+        {
+            "key": "zombie_back",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_27"
+                },
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_28"
+                },
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_29"
+                }
+            ]
+        },
+        {
+            "key": "zombie_walkl",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_9"
+                },
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_10"
+                },
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_11"
+                }
+            ]
+        },
+        {
+            "key": "zombie_walkr",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_18"
+                },
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_19"
+                },
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_20"
+                }
+            ]
+        },
+        {
+            "key": "zombie_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_0"
+                },
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_1"
+                },
+                {
+                    "key": "zombie",
+                    "frame": "zombie_n_skeleton2_2"
+                }
+            ]
+        }
+    ]
+}

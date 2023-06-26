@@ -1,0 +1,100 @@
+{
+    "anims": [
+        {
+            "key": "skeleton_walkl",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_12"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_13"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_14"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_15"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_16"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_17"
+                }
+            ]
+        },
+        {
+            "key": "skeleton_walkr",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_21"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_22"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_23"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_24"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_25"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_26"
+                }
+            ]
+        },
+        {
+            "key": "skeleton_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_3"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_4"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_5"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_6"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_7"
+                },
+                {
+                    "key": "skeleton",
+                    "frame": "zombie_n_skeleton2_8"
+                }
+            ]
+        }
+    ]
+}
